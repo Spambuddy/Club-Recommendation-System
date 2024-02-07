@@ -1,4 +1,3 @@
-""" CSC108 Assignment 3: Club Recommendations - Main Program code """
 from typing import Dict, List
 from club_functions import load_profiles, recommend_clubs
 
